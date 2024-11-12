@@ -10,7 +10,7 @@ My goal is to write clean, scalable code that not only solves problems, but also
 more enjoyable for everyone involved.
 
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss new ideas!
+Feel free to explore my repositories containing projects material and reach out if you'd like to collaborate or discuss new ideas!
 
 
 <!---
